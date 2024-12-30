@@ -28,9 +28,16 @@
 
 @font-face {
     font-family: 'AlibabaPuHuiTi';
-    font-weight: 400;
+    font-weight: 450;
     font-style: normal;
     src: url('https://cdn.jsdelivr.net/gh/ZicongCheung/ZicCDN@main/fonts/AlibabaPuHuiTi/AlibabaPuHuiTi-3-55-RegularL3.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/ZicongCheung/ZicCDN@main/fonts/AlibabaPuHuiTi/AlibabaPuHuiTi-3-55-RegularL3.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'AlibabaPuHuiTi';
+    font-weight: 400;
+    font-style: normal;
+    src: url('https://cdn.jsdelivr.net/gh/ZicongCheung/ZicCDN@main/fonts/AlibabaPuHuiTi/AlibabaPuHuiTi-3-55-Regular.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/ZicongCheung/ZicCDN@main/fonts/AlibabaPuHuiTi/AlibabaPuHuiTi-3-55-Regular.woff') format('woff');
 }
 
 @font-face {
