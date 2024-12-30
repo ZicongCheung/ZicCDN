@@ -4,7 +4,7 @@ import os
 GITHUB_USERNAME = "ZicongCheung"  # 替换为你的 GitHub 用户名
 REPO_NAME = "ZicCDN"  # 替换为你的 GitHub 仓库名
 FONT_NAME = "AlibabaPuHuiTi"  # 替换为你的字体名
-CDN_BASE_URL = f"https://cdn.jsdelivr.net/gh/{GITHUB_USERNAME}/{REPO_NAME}@main/fonts/{FONT_NAME}/"
+CDN_BASE_URL = f"https://cdn.jsdelivr.net/gh/{GITHUB_USERNAME}/{REPO_NAME}@latest/fonts/{FONT_NAME}/"
 
 # 定义字体族名
 FONT_FAMILY = "AlibabaPuHuiTi"
