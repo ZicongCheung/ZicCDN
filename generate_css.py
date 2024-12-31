@@ -3,11 +3,11 @@ import os
 # 配置参数
 GITHUB_USERNAME = "ZicongCheung"  # 替换为你的 GitHub 用户名
 REPO_NAME = "ZicCDN"  # 替换为你的 GitHub 仓库名
-FONT_NAME = "AlibabaPuHuiTi"  # 替换为你的字体名
+FONT_NAME = "HarmonyOS_Sans/HarmonyOS_Sans_SC"  # 替换为你的字体名
 CDN_BASE_URL = f"https://jsd.cdn.zzko.cn/gh/{GITHUB_USERNAME}/{REPO_NAME}@latest/fonts/{FONT_NAME}/"
 
 # 定义字体族名
-FONT_FAMILY = "AlibabaPuHuiTi"
+FONT_FAMILY = "HarmonyOS_Sans_SC"
 
 # 要生成的 CSS 文件名
 CSS_FILENAME = "result.css"
@@ -82,7 +82,7 @@ def extract_font_weight(file_name):
 
 # 执行生成
 if __name__ == "__main__":
-    FONT_FOLDER = "E:/GitHub/ZicCDN/fonts/AlibabaPuHuiTi"  # 替换为存放字体文件的文件夹路径
+    FONT_FOLDER = "E:/GitHub/ZicCDN/fonts/HarmonyOS_Sans/HarmonyOS_Sans_SC"  # 替换为存放字体文件的文件夹路径
     if os.path.exists(FONT_FOLDER):
         generate_css(FONT_FOLDER)
     else:
