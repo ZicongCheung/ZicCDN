@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'AlibabaPuHuiTi';
+    font-weight: 900;
+    font-style: normal;
+    src: url('https://jsd.cdn.zzko.cn/gh/ZicongCheung/ZicCDN@latest/fonts/AlibabaPuHuiTi/AlibabaPuHuiTi-3-105-Heavy.woff2') format('woff2'), url('https://jsd.cdn.zzko.cn/gh/ZicongCheung/ZicCDN@latest/fonts/AlibabaPuHuiTi/AlibabaPuHuiTi-3-105-Heavy.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'AlibabaPuHuiTi';
+    font-weight: 950;
+    font-style: normal;
+    src: url('https://jsd.cdn.zzko.cn/gh/ZicongCheung/ZicCDN@latest/fonts/AlibabaPuHuiTi/AlibabaPuHuiTi-3-115-Black.woff2') format('woff2'), url('https://jsd.cdn.zzko.cn/gh/ZicongCheung/ZicCDN@latest/fonts/AlibabaPuHuiTi/AlibabaPuHuiTi-3-115-Black.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'AlibabaPuHuiTi';
+    font-weight: 100;
+    font-style: normal;
+    src: url('https://jsd.cdn.zzko.cn/gh/ZicongCheung/ZicCDN@latest/fonts/AlibabaPuHuiTi/AlibabaPuHuiTi-3-35-Thin.woff2') format('woff2'), url('https://jsd.cdn.zzko.cn/gh/ZicongCheung/ZicCDN@latest/fonts/AlibabaPuHuiTi/AlibabaPuHuiTi-3-35-Thin.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'AlibabaPuHuiTi';
+    font-weight: 300;
+    font-style: normal;
+    src: url('https://jsd.cdn.zzko.cn/gh/ZicongCheung/ZicCDN@latest/fonts/AlibabaPuHuiTi/AlibabaPuHuiTi-3-45-Light.woff2') format('woff2'), url('https://jsd.cdn.zzko.cn/gh/ZicongCheung/ZicCDN@latest/fonts/AlibabaPuHuiTi/AlibabaPuHuiTi-3-45-Light.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'AlibabaPuHuiTi';
+    font-weight: 450;
+    font-style: normal;
+    src: url('https://jsd.cdn.zzko.cn/gh/ZicongCheung/ZicCDN@latest/fonts/AlibabaPuHuiTi/AlibabaPuHuiTi-3-55-RegularL3.woff2') format('woff2'), url('https://jsd.cdn.zzko.cn/gh/ZicongCheung/ZicCDN@latest/fonts/AlibabaPuHuiTi/AlibabaPuHuiTi-3-55-RegularL3.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'AlibabaPuHuiTi';
+    font-weight: 400;
+    font-style: normal;
+    src: url('https://jsd.cdn.zzko.cn/gh/ZicongCheung/ZicCDN@latest/fonts/AlibabaPuHuiTi/AlibabaPuHuiTi-3-55-Regular.woff2') format('woff2'), url('https://cdn.jsdelivr.net/gh/ZicongCheung/ZicCDN@latest/fonts/AlibabaPuHuiTi/AlibabaPuHuiTi-3-55-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'AlibabaPuHuiTi';
+    font-weight: 500;
+    font-style: normal;
+    src: url('https://jsd.cdn.zzko.cn/gh/ZicongCheung/ZicCDN@latest/fonts/AlibabaPuHuiTi/AlibabaPuHuiTi-3-65-Medium.woff2') format('woff2'), url('https://jsd.cdn.zzko.cn/gh/ZicongCheung/ZicCDN@latest/fonts/AlibabaPuHuiTi/AlibabaPuHuiTi-3-65-Medium.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'AlibabaPuHuiTi';
+    font-weight: 600;
+    font-style: normal;
+    src: url('https://jsd.cdn.zzko.cn/gh/ZicongCheung/ZicCDN@latest/fonts/AlibabaPuHuiTi/AlibabaPuHuiTi-3-75-SemiBold.woff2') format('woff2'), url('https://jsd.cdn.zzko.cn/gh/ZicongCheung/ZicCDN@latest/fonts/AlibabaPuHuiTi/AlibabaPuHuiTi-3-75-SemiBold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'AlibabaPuHuiTi';
+    font-weight: 700;
+    font-style: normal;
+    src: url('https://jsd.cdn.zzko.cn/gh/ZicongCheung/ZicCDN@latest/fonts/AlibabaPuHuiTi/AlibabaPuHuiTi-3-95-ExtraBold.woff2') format('woff2'), url('https://jsd.cdn.zzko.cn/gh/ZicongCheung/ZicCDN@latest/fonts/AlibabaPuHuiTi/AlibabaPuHuiTi-3-95-ExtraBold.woff') format('woff');
+}
